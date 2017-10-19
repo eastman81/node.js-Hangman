@@ -39,6 +39,7 @@ game = {
 					console.log("You Win!!");
 					self.promptUser();
 					// return;
+					// Next step would be to make sure it asks till the word is complete, there is currently a bug where if you guess a correct letter, it stops the application 
 				}
 			}
 
