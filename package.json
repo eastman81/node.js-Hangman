@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/eastman81/node.js-Hangman#readme",
   "dependencies": {
-    "inquirer": "^3.3.0"
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0"
   }
 }
